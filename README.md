@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   Hi, I'm Mardav Jain
 </h1>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF&center=true&width=500&lines=Java+Backend+Developer;Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Building+Scalable+Backend+Systems" alt="Typing SVG" />
+</p>
 <h3 align="center">MCA Student • Software Developer • Machine Learning Enthusiast</h3>
 
 <p align="center">
