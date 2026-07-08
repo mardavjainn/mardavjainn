@@ -39,30 +39,6 @@ My interest lies in understanding how systems work and gradually improving my en
 
 ---
 <details open>
-<summary><h2>🥂 Visual Insights</h2></summary>
-
-### 🐙 GitHub Widgets
-
-<div align="center">
-  <img src="https://zinnia-rho.vercel.app/api/trophy?username=mardavjainn&theme=watchdog&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
-  <br>
-  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=mardavjainn&layout=compact&hide_border=true&theme=watchdog" width="355" height="200" alt="Top Languages" />
-  <img src="https://zinnia-rho.vercel.app/api/stats?username=mardavjainn&show_icons=true&theme=watchdog&hide_border=true" height="200" alt="GitHub Stats" />
-  <br>
-  <img src="https://zinnia-rho.vercel.app/api/streak?user=mardavjainn&hide_border=true&theme=watchdog" alt="Github Streak" />
-</div>
-
-### 📊 LeetCode Stats
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/mardavjain07?theme=dark&font=Baloo&ext=heatmap" width="450"/>
-</p>
-
----
-
-
-
-
-<details open>
 <summary><h2>🧰 Tech Stack</h2></summary>
 
 ### 💻 Languages
@@ -105,7 +81,9 @@ My interest lies in understanding how systems work and gradually improving my en
 
 </details>
 
+
 ---
+
 
 <details open>
 <summary><h2>⚡ Interests Beyond Tech</h2></summary>
@@ -120,6 +98,28 @@ My interest lies in understanding how systems work and gradually improving my en
   I enjoy talking to people, sharing ideas, and creating a positive environment around me.
 
 </details>
+
+---
+
+<details open>
+<summary><h2>🥂 Visual Insights</h2></summary>
+
+### 🐙 GitHub Widgets
+
+<div align="center">
+  <img src="https://zinnia-rho.vercel.app/api/trophy?username=mardavjainn&theme=watchdog&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
+  <br>
+  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=mardavjainn&layout=compact&hide_border=true&theme=watchdog" width="355" height="200" alt="Top Languages" />
+  <img src="https://zinnia-rho.vercel.app/api/stats?username=mardavjainn&show_icons=true&theme=watchdog&hide_border=true" height="200" alt="GitHub Stats" />
+  <br>
+  <img src="https://zinnia-rho.vercel.app/api/streak?user=mardavjainn&hide_border=true&theme=watchdog" alt="Github Streak" />
+</div>
+
+### 📊 LeetCode Stats
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/mardavjain07?theme=dark&font=Baloo&ext=heatmap" width="450"/>
+</p>
+
 
 ---
 
