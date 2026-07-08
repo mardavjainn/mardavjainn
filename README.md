@@ -37,6 +37,7 @@ My interest lies in understanding how systems work and gradually improving my en
 
 </details>
 
+---
 <details open>
 <summary><h2>🥂 Visual Insights</h2></summary>
 
@@ -58,9 +59,8 @@ My interest lies in understanding how systems work and gradually improving my en
 
 ---
 
----
 
----
+
 
 <details open>
 <summary><h2>🧰 Tech Stack</h2></summary>
