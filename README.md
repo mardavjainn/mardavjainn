@@ -23,6 +23,19 @@
 </p>
 
 ---
+<details open>
+<summary><h2>🧠 About Me</h2></summary>
+
+I am currently pursuing my **Master of Computer Applications (MCA)** and enjoy building software that solves meaningful problems.
+
+My interest lies in understanding how systems work and gradually improving my engineering skills by building projects and experimenting with different technologies.
+
+- 💻 **Problem Solving:** I enjoy solving logical and algorithmic problems and actively practice **Data Structures & Algorithms in Java**.
+- 🔭 **Current Focus:** Building backend applications and exploring how data and machine learning can be used in practical systems.
+- 🌱 **Learning:** Advanced Java (Spring Boot), backend development, and applying **machine learning concepts using Python**.
+- ⚙️ **Mindset:** I enjoy learning by building projects and continuously improving my understanding of software systems.
+
+</details>
 
 <details open>
 <summary><h2>🥂 Visual Insights</h2></summary>
@@ -46,20 +59,6 @@
 ---
 
 ---
-
-<details open>
-<summary><h2>🧠 About Me</h2></summary>
-
-I am currently pursuing my **Master of Computer Applications (MCA)** and enjoy building software that solves meaningful problems.
-
-My interest lies in understanding how systems work and gradually improving my engineering skills by building projects and experimenting with different technologies.
-
-- 💻 **Problem Solving:** I enjoy solving logical and algorithmic problems and actively practice **Data Structures & Algorithms in Java**.
-- 🔭 **Current Focus:** Building backend applications and exploring how data and machine learning can be used in practical systems.
-- 🌱 **Learning:** Advanced Java (Spring Boot), backend development, and applying **machine learning concepts using Python**.
-- ⚙️ **Mindset:** I enjoy learning by building projects and continuously improving my understanding of software systems.
-
-</details>
 
 ---
 
